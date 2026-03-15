@@ -24,7 +24,7 @@ STC8G1K08A  1个 \
 
 有帮助就点个星星吧⭐
 
-（一张意义不明的图片）
+（一张意义不明的图片）\
 <img src="./an_ambiguous_pic.jpg" width="220px">
 
 --------
